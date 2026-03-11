@@ -18,10 +18,10 @@ I am a third-year undergraduate student in the Department of Physics at National
 
 Here are some of my recent academic projects and theoretical physics research presentations:
 
-* **[Non-Hermitian Physics and Logarithmic CFT](https://github.com/Wu931129/Non_Hermitian_Research_at_National_Taiwan_University)**
+* **[Non-Hermitian Physics and Logarithmic CFT](https://github.com/YunYenWu/Non_Hermitian_Research_at_National_Taiwan_University)**
   * Investigated indecomposable properties and explicitly constructed staggered modules in Logarithmic Conformal Field Theory (LCFT).
   * Analyzed Liouville theory within a bosonization framework and conducted comparative analyses with non-Hermitian fermionic models.
-* **[Abelian Bosonization in 1+1 Dimensions](https://github.com/Wu931129/QFT2_Abelian_Bosonization)**
+* **[Abelian Bosonization in 1+1 Dimensions](https://github.com/YunYenWu/QFT2_Abelian_Bosonization)**
   * Term paper and presentations developed for the Quantum Field Theory II course.
   * Detailed the exact operator mapping of interacting Dirac fermions to scalar bosons, the emergence of the Tomonaga-Luttinger Liquid, and BKT phase transitions in the XXZ spin chain.
 
