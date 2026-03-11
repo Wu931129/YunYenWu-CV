@@ -6,7 +6,7 @@ I am a third-year undergraduate student in the Department of Physics at National
 * **National Taiwan University (NTU)**
 * B.S. in Physics (Expected Graduation: 2027)
 
-## 🔬 Research Focus & Interests
+## 🔬 Research Focus & Interests (with Prof. Chang-Tse Hsieh)
 * **Theoretical Physics:** Conformal Field Theory (CFT), Logarithmic CFT, Liouville Field Theory.
 * **Current Research:** Investigating Non-Hermitian Bosonization and its connection to Logarithmic and Imaginary Liouville Field Theory under the supervision of Prof. Chang-Tse Hsieh.
 
