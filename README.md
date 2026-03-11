@@ -1,7 +1,6 @@
 # Yun-Yen Wu - Curriculum Vitae
 
 [![Email](https://img.shields.io/badge/Email-wu931129%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:wu931129@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Taichung%2C%20Taiwan-lightgrey?style=flat-square)](#)
 
 I am a third-year undergraduate student in the Department of Physics at National Taiwan University (NTU). My academic and research focus lies in theoretical physics, specifically bridging abstract physical theories with computational problem-solving.
 
@@ -9,7 +8,6 @@ I am a third-year undergraduate student in the Department of Physics at National
 
 **National Taiwan University (NTU)**
 * B.S. in Physics (Expected Graduation: 2027)
-* **GPA:** 4.2 / 4.3
 
 ## 🔬 Research Focus & Experience
 
