@@ -1,4 +1,5 @@
-# Yun-Yen Wu (吳昀諺)
+# Yun-Yen Wu (吳昀諺) 
+[📄 Download Full CV (PDF)](./CV_YunYenWu.pdf)
 
 I am a third-year undergraduate student in the Department of Physics at National Taiwan University (NTU). My research focus lies in theoretical physics, particularly bridging abstract physical theories with computational problem-solving.
 
